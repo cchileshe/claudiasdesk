@@ -41,12 +41,23 @@
 		</nav>
 		<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
 			<h3>Shop by item</h3>
-		<a href="#">Celery seakale</a>
-			<a href="#">Dulse daikon</a>
-			<a href="#">Zucchini garlic</a>
-			<a href="#">Catsear azuki bean</a>
-			<a href="#">Dandelion bunya</a>
-			<a href="#">Rutabaga</a>
+			<ul> 
+			<li>
+		<img src="" alt="" class="shop-by-item-img"/>
+			<a href="#" class="title"> Celery seakale</a>
+		<p class="shop-by-item-excerpt">Curabitur eu mi mattis, pulvinar leo vitae, condimentum ligula</p>
+		<button >details</button>
+		<button >buy</button>
+			</li>
+			
+			<li>
+		<img src="" alt="" class="shop-by-item-img"/>
+			<a href="#" class="title"> Celery seakale</a>
+		<p class="shop-by-item-excerpt">Curabitur eu mi mattis, pulvinar leo vitae, condimentum ligula</p>
+		<button >details</button>
+		<button >buy</button>
+			</li>
+		</ul>
 		</nav>
 		<!-- Header -->
 			<section id="header">
@@ -54,7 +65,7 @@
 					<h1>Claudia's Desk</h1>
 					<p>By HTML5 UP</p>
 					<section>
-					<h2>Slide Menus</h2>
+					<h2></h2>
 					<!-- Class "cbp-spmenu-open" gets applied to menu -->
 					<button id="showLeft">Show/Hide Left Slide Menu</button>
 					
@@ -64,7 +75,7 @@
 				<footer>
 				
 				<button id="showRight" class="button">shop by item</button>
-				<button id="add to cart" class="button">buy cubicle</button>
+				<button id="addtocart" class="button">buy cubicle</button>
 				</footer>
 			</section>
 		
@@ -73,9 +84,9 @@
 				<header>
 					<h2>How It Works</h2>
 				</header>
-				<p>A brand new site template designed by <a href="http://n33.co">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a>.<br />
-				It’s fully responsive, built on <a href="http://skeljs.org">skelJS</a>, and of course entirely free<br />
-				under the <a href="http://html5up.net/license/">Creative Commons license</a>.</p>
+				<p>Curabitur eu mi mattis, pulvinar leo vitae, condimentum ligula. Sed placerat malesuada ullamcorper. <br />
+				Fusce ac lectus metus. Maecenas hendrerit sollicitudin quam, <br />
+				eget viverra velit lacinia vitae. Morbi varius dui nisi. Aenean vel porta nunc. In sollicitudin rhoncus lobortis</p>
 				<footer>
 					<a href="#first" class="button style2 scrolly">Act on this message</a>
 				</footer>
