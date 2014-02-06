@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Overflow by HTML5 UP</title>
+		<title>Claudia's Desk</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<meta name="description" content="" />
@@ -43,16 +43,18 @@
 			<h3>Shop by item</h3>
 			<ul> 
 			<li>
-		<img src="" alt="" class="shop-by-item-img"/>
+		
 			<a href="#" class="title"> Celery seakale</a>
+			<img src="images/thumbs/03.jpg" alt="" class="shop-by-item-img" height="100px" width="100px"/>
 		<p class="shop-by-item-excerpt">Curabitur eu mi mattis, pulvinar leo vitae, condimentum ligula</p>
 		<button >details</button>
 		<button >buy</button>
 			</li>
 			
 			<li>
-		<img src="" alt="" class="shop-by-item-img"/>
+		
 			<a href="#" class="title"> Celery seakale</a>
+		<img src="" alt="" class="shop-by-item-img"/>
 		<p class="shop-by-item-excerpt">Curabitur eu mi mattis, pulvinar leo vitae, condimentum ligula</p>
 		<button >details</button>
 		<button >buy</button>
